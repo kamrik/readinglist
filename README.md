@@ -10,6 +10,9 @@ My personal list of books, videos and podcasts that I liked a lot and often find
      - [Goodreads](https://www.goodreads.com/book/show/475.Collapse), [Audiobook in Russain](https://www.litres.ru/dzhared-m-daymond/kollaps-pochemu-odni-obschestva-prihodyat-k-procvetaniu-a-drugie-k-gibeli-22166043/)
    - The World Until Yesterday: What Can We Learn from Traditional Societies? 
      - [Goodreads](https://www.goodreads.com/book/show/15766601-the-world-until-yesterday)
+ - Arzamas short videos
+   - Ancient Greece [en](https://www.youtube.com/watch?v=gFRxmi4uCGo), [ru](https://www.youtube.com/watch?v=LJdhEpJ03Ug)
+   - Roman empire [en](https://www.youtube.com/watch?v=46ZXl-V4qwY&t=74s), [ru](https://www.youtube.com/watch?v=LqB2pZXEfO4)
   
   - Francis Fukuyama - 2 volumes [The Origins of Political Order](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order) and [Political Order and Political Decay](https://www.goodreads.com/book/show/20575435-political-order-and-political-decay)
   - [NPR Planet Money series on antitrust regulation in US](https://www.npr.org/sections/money/2019/03/20/704426033/antitrust-in-america) (podcast, 3 episodes)
