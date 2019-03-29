@@ -15,20 +15,11 @@ My personal list of books, videos and podcasts that I liked a lot and often find
   - [NPR Planet Money series on antitrust regulation in US](https://www.npr.org/sections/money/2019/03/20/704426033/antitrust-in-america) (podcast, 3 episodes)
    - And the closely related [eposode of LastWeekTonight on Corporate Consolidation](https://www.youtube.com/watch?v=00wQYmvfhn4)
 
-## TBD
-  - The Culture Code by Daneil Coyle
-    - [Goodreads](https://www.goodreads.com/book/show/33517721-the-culture-code),
+## Self Imrovement
   - Thinking in Bets by Annie Duke
     - [Goodreads](https://www.goodreads.com/book/show/35957157-thinking-in-bets), [Talk at Google](https://www.youtube.com/watch?v=uYNsSeYjkp4)
-
-
-
-## Teaching and Education
- - The Talent Code by Daneil Coyle
-   - [Goodreads](https://www.goodreads.com/book/show/5771014-the-talent-code)
- - Teaching College by Norman Eng
-   - [Goodreads](https://www.goodreads.com/book/show/33948880-teaching-college)
-   - Somewaht dry read but very pragmatic
+  - The Culture Code by Daneil Coyle
+    - [Goodreads](https://www.goodreads.com/book/show/33517721-the-culture-code)
 
 ## Relationships
  - Podcast [Where Should We Begin?](https://www.estherperel.com/podcast) with [Esther Perel](https://en.wikipedia.org/wiki/Esther_Perel)
@@ -39,6 +30,12 @@ My personal list of books, videos and podcasts that I liked a lot and often find
  - All Joy and No Fun: The Paradox of Modern Parenthood by Jennifer Senior
    - [Goodreads](https://www.goodreads.com/book/show/17383921-all-joy-and-no-fun)
 
+## Teaching and Education
+ - The Talent Code by Daneil Coyle
+   - [Goodreads](https://www.goodreads.com/book/show/5771014-the-talent-code)
+ - Teaching College by Norman Eng
+   - [Goodreads](https://www.goodreads.com/book/show/33948880-teaching-college)
+   - Somewaht dry read but very pragmatic
 
 ## Tech
   - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
