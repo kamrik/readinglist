@@ -14,7 +14,7 @@ My personal list of books, videos and podcasts that I liked a lot and often find
  - Arzamas short videos
    - Ancient Greece [en](https://www.youtube.com/watch?v=gFRxmi4uCGo), [ru](https://www.youtube.com/watch?v=LJdhEpJ03Ug)
    - Roman empire [en](https://www.youtube.com/watch?v=46ZXl-V4qwY&t=74s), [ru](https://www.youtube.com/watch?v=LqB2pZXEfO4)
- - [OverSimplified History](https://www.youtube.com/watch?v=dHSQAEam2yc&list=PLQw_XrMliWVYSc66IpEnrr1MxCxy0H1SH)
+ - OverSimplified History [en](https://www.youtube.com/watch?v=dHSQAEam2yc&list=PLQw_XrMliWVYSc66IpEnrr1MxCxy0H1SH), [ru](https://www.youtube.com/watch?v=b4PaJoT0Vrk&list=PLXqw_bOXdl5Va11yj3LHzI7WpakXbo05I)
  - [NPR Planet Money series on antitrust regulation in US](https://www.npr.org/sections/money/2019/03/20/704426033/antitrust-in-america) (podcast, 3 episodes)
     - And the closely related [eposode of LastWeekTonight on Corporate Consolidation](https://www.youtube.com/watch?v=00wQYmvfhn4)
 
