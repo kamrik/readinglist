@@ -10,14 +10,17 @@ My personal list of books, videos and podcasts that I liked a lot and often find
      - [Goodreads](https://www.goodreads.com/book/show/475.Collapse), [Audiobook in Russain](https://www.litres.ru/dzhared-m-daymond/kollaps-pochemu-odni-obschestva-prihodyat-k-procvetaniu-a-drugie-k-gibeli-22166043/)
    - The World Until Yesterday: What Can We Learn from Traditional Societies? 
      - [Goodreads](https://www.goodreads.com/book/show/15766601-the-world-until-yesterday)
+  
+  - Francis Fukuyama - 2 volumes [The Origins of Political Order](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order) and [Political Order and Political Decay](https://www.goodreads.com/book/show/20575435-political-order-and-political-decay)
+  - [NPR Planet Money series on antitrust regulation in US](https://www.npr.org/sections/money/2019/03/20/704426033/antitrust-in-america) (podcast, 3 episodes)
+   - And the closely related [eposode of LastWeekTonight on Corporate Consolidation](https://www.youtube.com/watch?v=00wQYmvfhn4)
 
 ## TBD
   - The Culture Code by Daneil Coyle
     - [Goodreads](https://www.goodreads.com/book/show/33517721-the-culture-code),
   - Thinking in Bets by Annie Duke
     - [Goodreads](https://www.goodreads.com/book/show/35957157-thinking-in-bets), [Talk at Google](https://www.youtube.com/watch?v=uYNsSeYjkp4)
-  - [NPR Planet Money series on antitrust regulation in US](https://www.npr.org/sections/money/2019/03/20/704426033/antitrust-in-america) (podcast, 3 episodes)
-   - And the closely related [eposode of LastWeekTonight on Corporate Consolidation](https://www.youtube.com/watch?v=00wQYmvfhn4)
+
 
 
 ## Teaching and Education
@@ -27,6 +30,10 @@ My personal list of books, videos and podcasts that I liked a lot and often find
    - [Goodreads](https://www.goodreads.com/book/show/33948880-teaching-college)
    - Somewaht dry read but very pragmatic
 
+## Relationships
+ - Podcast [Where Should We Begin?](https://www.estherperel.com/podcast) with [Esther Perel](https://en.wikipedia.org/wiki/Esther_Perel)
+   - Partial recordings of real couple therapy sessions with commentary
+ - Reddit: [r/relationships](https://www.reddit.com/r/relationships), [r/sex](https://www.reddit.com/r/sex)
 
 ## Children
  - All Joy and No Fun: The Paradox of Modern Parenthood by Jennifer Senior
