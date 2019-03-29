@@ -1,5 +1,5 @@
 # My Reding List
-My personal list of books, videos and podcasts that I liked a lot and often find myself recommending to others
+My personal list of books, videos and podcasts and ohter resources that I often find myself recommending to others
 
 
 ## Society and History
