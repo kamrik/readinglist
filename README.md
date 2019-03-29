@@ -35,7 +35,7 @@ My personal list of books, videos and podcasts that I liked a lot and often find
 
 ## Tech
   - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
-    - [GitHub](
+    - [GitHub](https://github.com/jakevdp/PythonDataScienceHandbook)
   - [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) by François Chollet
-    - [Manning online reaader with audio](https://livebook.manning.com/#!/book/deep-learning-with-python/chapter-1/), [Audible](https://www.audible.com/pd/Deep-Learning-with-Python-Audiobook/B07H5TZ6KN), [Book GitHub page](https://github.com/fchollet/deep-learning-with-python-notebooks)
+    - [Manning online reader with audio](https://livebook.manning.com/#!/book/deep-learning-with-python/chapter-1/), [Audible](https://www.audible.com/pd/Deep-Learning-with-Python-Audiobook/B07H5TZ6KN), [Book GitHub page](https://github.com/fchollet/deep-learning-with-python-notebooks)
   
