@@ -3,20 +3,20 @@ My personal list of books, videos and podcasts that I liked a lot and often find
 
 
 ## Society and History
-  - Sapiens: A Brief History of Humankind by Yuval Noah Harari
-    - [Goodreads](https://www.goodreads.com/book/show/23692271-sapiens), [video playlist](https://www.youtube.com/watch?v=xQ4eg7Zj5OY&list=PLE-kxvSEhkzDEmLQx3RE09aKO4WS-M84t&index=4)
+ - Sapiens: A Brief History of Humankind by Yuval Noah Harari
+   - [Goodreads](https://www.goodreads.com/book/show/23692271-sapiens), [video playlist](https://www.youtube.com/watch?v=xQ4eg7Zj5OY&list=PLE-kxvSEhkzDEmLQx3RE09aKO4WS-M84t&index=4)
  - Jared Diamond
    - Collapse: How Societies Choose to Fail or Succeed
      - [Goodreads](https://www.goodreads.com/book/show/475.Collapse), [Audiobook in Russain](https://www.litres.ru/dzhared-m-daymond/kollaps-pochemu-odni-obschestva-prihodyat-k-procvetaniu-a-drugie-k-gibeli-22166043/)
    - The World Until Yesterday: What Can We Learn from Traditional Societies? 
      - [Goodreads](https://www.goodreads.com/book/show/15766601-the-world-until-yesterday)
+ - Francis Fukuyama - 2 volumes [The Origins of Political Order](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order) and [Political Order and Political Decay](https://www.goodreads.com/book/show/20575435-political-order-and-political-decay)
  - Arzamas short videos
    - Ancient Greece [en](https://www.youtube.com/watch?v=gFRxmi4uCGo), [ru](https://www.youtube.com/watch?v=LJdhEpJ03Ug)
    - Roman empire [en](https://www.youtube.com/watch?v=46ZXl-V4qwY&t=74s), [ru](https://www.youtube.com/watch?v=LqB2pZXEfO4)
-  
-  - Francis Fukuyama - 2 volumes [The Origins of Political Order](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order) and [Political Order and Political Decay](https://www.goodreads.com/book/show/20575435-political-order-and-political-decay)
-  - [NPR Planet Money series on antitrust regulation in US](https://www.npr.org/sections/money/2019/03/20/704426033/antitrust-in-america) (podcast, 3 episodes)
-   - And the closely related [eposode of LastWeekTonight on Corporate Consolidation](https://www.youtube.com/watch?v=00wQYmvfhn4)
+ - [OverSimplified History](https://www.youtube.com/watch?v=dHSQAEam2yc&list=PLQw_XrMliWVYSc66IpEnrr1MxCxy0H1SH)
+ - [NPR Planet Money series on antitrust regulation in US](https://www.npr.org/sections/money/2019/03/20/704426033/antitrust-in-america) (podcast, 3 episodes)
+    - And the closely related [eposode of LastWeekTonight on Corporate Consolidation](https://www.youtube.com/watch?v=00wQYmvfhn4)
 
 ## Self Imrovement
   - Thinking in Bets by Annie Duke
@@ -39,6 +39,10 @@ My personal list of books, videos and podcasts that I liked a lot and often find
  - Teaching College by Norman Eng
    - [Goodreads](https://www.goodreads.com/book/show/33948880-teaching-college)
    - Somewaht dry read but very pragmatic
+
+## Sailing
+ - Sail and Rig Tuning by Ivar Dedekam
+ - Don Casey's Complete Illustrated Sailboat Maintenance Manual
 
 ## Tech
   - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
