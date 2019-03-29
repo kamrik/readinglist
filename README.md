@@ -23,6 +23,9 @@ My personal list of books, videos and podcasts that I liked a lot and often find
 ## Teaching and Education
  - The Talent Code by Daneil Coyle
    - [Goodreads](https://www.goodreads.com/book/show/5771014-the-talent-code)
+ - Teaching College by Norman Eng
+   - [Goodreads](https://www.goodreads.com/book/show/33948880-teaching-college)
+   - Somewaht dry read but very pragmatic
 
 
 ## Children
@@ -35,3 +38,4 @@ My personal list of books, videos and podcasts that I liked a lot and often find
     - [GitHub](
   - [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) by François Chollet
     - [Manning online reaader with audio](https://livebook.manning.com/#!/book/deep-learning-with-python/chapter-1/), [Audible](https://www.audible.com/pd/Deep-Learning-with-Python-Audiobook/B07H5TZ6KN), [Book GitHub page](https://github.com/fchollet/deep-learning-with-python-notebooks)
+  
