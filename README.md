@@ -7,7 +7,7 @@ My personal list of books, videos and podcasts and ohter resources that I often 
    - [Goodreads](https://www.goodreads.com/book/show/23692271-sapiens), [video playlist](https://www.youtube.com/watch?v=xQ4eg7Zj5OY&list=PLE-kxvSEhkzDEmLQx3RE09aKO4WS-M84t&index=4)
  - Jared Diamond
    - Collapse: How Societies Choose to Fail or Succeed
-     - [Goodreads](https://www.goodreads.com/book/show/475.Collapse), [Audiobook in Russain](https://www.litres.ru/dzhared-m-daymond/kollaps-pochemu-odni-obschestva-prihodyat-k-procvetaniu-a-drugie-k-gibeli-22166043/)
+     - [Goodreads](https://www.goodreads.com/book/show/475.Collapse), [Amazon.ca](https://amzn.to/2VeMCcE), [Audiobook in Russain](https://www.litres.ru/dzhared-m-daymond/kollaps-pochemu-odni-obschestva-prihodyat-k-procvetaniu-a-drugie-k-gibeli-22166043/)
    - The World Until Yesterday: What Can We Learn from Traditional Societies? 
      - [Goodreads](https://www.goodreads.com/book/show/15766601-the-world-until-yesterday)
  - Francis Fukuyama - 2 volumes [The Origins of Political Order](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order) and [Political Order and Political Decay](https://www.goodreads.com/book/show/20575435-political-order-and-political-decay)
