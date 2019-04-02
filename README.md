@@ -9,7 +9,7 @@ My personal list of books, videos and podcasts and ohter resources that I often 
    - Collapse: How Societies Choose to Fail or Succeed
      - [Goodreads](https://www.goodreads.com/book/show/475.Collapse), [Amazon.ca](https://amzn.to/2VeMCcE), [Audiobook in Russain](https://www.litres.ru/dzhared-m-daymond/kollaps-pochemu-odni-obschestva-prihodyat-k-procvetaniu-a-drugie-k-gibeli-22166043/)
    - The World Until Yesterday: What Can We Learn from Traditional Societies? 
-     - [Goodreads](https://www.goodreads.com/book/show/15766601-the-world-until-yesterday)
+     - [Goodreads](https://www.goodreads.com/book/show/15766601-the-world-until-yesterday), [Amazon.ca](https://amzn.to/2HSuiDf)
  - Francis Fukuyama - 2 volumes [The Origins of Political Order](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order) and [Political Order and Political Decay](https://www.goodreads.com/book/show/20575435-political-order-and-political-decay)
  - Arzamas short videos
    - Ancient Greece [en](https://www.youtube.com/watch?v=gFRxmi4uCGo), [ru](https://www.youtube.com/watch?v=LJdhEpJ03Ug)
