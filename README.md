@@ -4,7 +4,7 @@ My personal list of books, videos and podcasts and ohter resources that I often 
 
 ## Society and History
  - Sapiens: A Brief History of Humankind by Yuval Noah Harari
-   - [Goodreads](https://www.goodreads.com/book/show/23692271-sapiens), [video playlist](https://www.youtube.com/watch?v=xQ4eg7Zj5OY&list=PLE-kxvSEhkzDEmLQx3RE09aKO4WS-M84t&index=4)
+   - [Goodreads](https://www.goodreads.com/book/show/23692271-sapiens), [Amazon.ca](https://amzn.to/2HVprkO), [video playlist](https://www.youtube.com/watch?v=xQ4eg7Zj5OY&list=PLE-kxvSEhkzDEmLQx3RE09aKO4WS-M84t&index=4)
  - Jared Diamond
    - Collapse: How Societies Choose to Fail or Succeed
      - [Goodreads](https://www.goodreads.com/book/show/475.Collapse), [Amazon.ca](https://amzn.to/2VeMCcE), [Audiobook in Russain](https://www.litres.ru/dzhared-m-daymond/kollaps-pochemu-odni-obschestva-prihodyat-k-procvetaniu-a-drugie-k-gibeli-22166043/)
