@@ -10,7 +10,9 @@ My personal list of books, videos and podcasts and ohter resources that I often 
      - [Goodreads](https://www.goodreads.com/book/show/475.Collapse), [Amazon.ca](https://amzn.to/2VeMCcE), [Audiobook in Russain](https://www.litres.ru/dzhared-m-daymond/kollaps-pochemu-odni-obschestva-prihodyat-k-procvetaniu-a-drugie-k-gibeli-22166043/)
    - The World Until Yesterday: What Can We Learn from Traditional Societies? 
      - [Goodreads](https://www.goodreads.com/book/show/15766601-the-world-until-yesterday), [Amazon.ca](https://amzn.to/2HSuiDf)
- - Francis Fukuyama - 2 volumes [The Origins of Political Order](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order) and [Political Order and Political Decay](https://www.goodreads.com/book/show/20575435-political-order-and-political-decay)
+ - Francis Fukuyama
+   - The Origins of Political Order - [Goodreads](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order), , [Amazon.ca](https://amzn.to/2I6mc9u)
+   - Political Order and Political Decay - [Goodreads](https://www.goodreads.com/book/show/20575435-political-order-and-political-decay), [Amazon.ca](https://amzn.to/2HU2Chs)
  - Arzamas short videos
    - Ancient Greece [en](https://www.youtube.com/watch?v=gFRxmi4uCGo), [ru](https://www.youtube.com/watch?v=LJdhEpJ03Ug)
    - Roman empire [en](https://www.youtube.com/watch?v=46ZXl-V4qwY&t=74s), [ru](https://www.youtube.com/watch?v=LqB2pZXEfO4)
@@ -20,9 +22,9 @@ My personal list of books, videos and podcasts and ohter resources that I often 
 
 ## Self Imrovement
   - Thinking in Bets by Annie Duke
-    - [Goodreads](https://www.goodreads.com/book/show/35957157-thinking-in-bets), [Talk at Google](https://www.youtube.com/watch?v=uYNsSeYjkp4)
+    - [Goodreads](https://www.goodreads.com/book/show/35957157-thinking-in-bets), [Amazon.ca](https://amzn.to/2CSuXAr), [Talk at Google](https://www.youtube.com/watch?v=uYNsSeYjkp4)
   - The Culture Code by Daneil Coyle
-    - [Goodreads](https://www.goodreads.com/book/show/33517721-the-culture-code)
+    - [Goodreads](https://www.goodreads.com/book/show/33517721-the-culture-code), [Amazon.ca](https://amzn.to/2CPQWrV)
 
 ## Relationships
  - Podcast [Where Should We Begin?](https://www.estherperel.com/podcast) with [Esther Perel](https://en.wikipedia.org/wiki/Esther_Perel)
@@ -31,22 +33,22 @@ My personal list of books, videos and podcasts and ohter resources that I often 
 
 ## Children
  - All Joy and No Fun: The Paradox of Modern Parenthood by Jennifer Senior
-   - [Goodreads](https://www.goodreads.com/book/show/17383921-all-joy-and-no-fun)
+   - [Goodreads](https://www.goodreads.com/book/show/17383921-all-joy-and-no-fun), [Amazon.ca](https://amzn.to/2Ulh6wA)
 
 ## Teaching and Education
  - The Talent Code by Daneil Coyle
-   - [Goodreads](https://www.goodreads.com/book/show/5771014-the-talent-code)
+   - [Goodreads](https://www.goodreads.com/book/show/5771014-the-talent-code), [Amazon.ca](https://amzn.to/2HVVst8)
  - Teaching College by Norman Eng
-   - [Goodreads](https://www.goodreads.com/book/show/33948880-teaching-college)
+   - [Goodreads](https://www.goodreads.com/book/show/33948880-teaching-college), [Amazon.ca](https://amzn.to/2CTaawA)
    - Somewaht dry read but very pragmatic
 
 ## Sailing
- - Sail and Rig Tuning by Ivar Dedekam
- - Don Casey's Complete Illustrated Sailboat Maintenance Manual
+ - Sail and Rig Tuning by Ivar Dedekam - [Goodreads](https://www.goodreads.com/book/show/927889.Sail_and_Rig_Tuning), [Amazon.ca](https://amzn.to/2UtMr01)
+ - Don Casey's Complete Illustrated Sailboat Maintenance Manual - [Goodreads](https://www.goodreads.com/book/show/1443179.Don_Casey_s_Complete_Illustrated_Sailboat_Maintenance_Manual), [Amazon.ca](https://amzn.to/2FOkGps)
 
 ## Tech
   - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
-    - [GitHub](https://github.com/jakevdp/PythonDataScienceHandbook)
+    - [GitHub](https://github.com/jakevdp/PythonDataScienceHandbook), [Amazon.ca](https://amzn.to/2CUjNex)
   - [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) by François Chollet
-    - [Manning online reader with audio](https://livebook.manning.com/#!/book/deep-learning-with-python/chapter-1/), [Audible](https://www.audible.com/pd/Deep-Learning-with-Python-Audiobook/B07H5TZ6KN), [Book GitHub page](https://github.com/fchollet/deep-learning-with-python-notebooks)
+    - [Manning online reader with audio](https://livebook.manning.com/#!/book/deep-learning-with-python/chapter-1/), [Amazon.ca](https://amzn.to/2FEZDpi), [Audible](https://www.audible.com/pd/Deep-Learning-with-Python-Audiobook/B07H5TZ6KN), [Book GitHub page](https://github.com/fchollet/deep-learning-with-python-notebooks)
   
