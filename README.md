@@ -20,6 +20,9 @@ My personal list of books, videos and podcasts and ohter resources that I often 
  - [NPR Planet Money series on antitrust regulation in US](https://www.npr.org/sections/money/2019/03/20/704426033/antitrust-in-america) (podcast, 3 episodes)
     - And the closely related [episode of LastWeekTonight on Corporate Consolidation](https://www.youtube.com/watch?v=00wQYmvfhn4)
 
+## Pop Sci
+ - [Minute Earth](https://www.youtube.com/c/minuteearth/featured) short videos ([ru translations](https://www.youtube.com/channel/UCgzrbDysFjurki-QR3YLKzg) )
+
 ## Self Imrovement
   - Thinking in Bets by Annie Duke
     - [Goodreads](https://www.goodreads.com/book/show/35957157-thinking-in-bets), [Amazon.ca](https://amzn.to/2CSuXAr), [Talk at Google](https://www.youtube.com/watch?v=uYNsSeYjkp4)
