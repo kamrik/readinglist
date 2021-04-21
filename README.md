@@ -22,6 +22,7 @@ My personal list of books, videos and podcasts and ohter resources that I often 
 
 ## Pop Sci
  - [Minute Earth](https://www.youtube.com/c/minuteearth/featured) short videos ([ru translations](https://www.youtube.com/channel/UCgzrbDysFjurki-QR3YLKzg) )
+ - [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt) - a YouTube channel with well researched videos, sponsored by Bill Gates.
 
 ## Self Imrovement
   - [Ali Abdaal](https://www.youtube.com/channel/UCoOae5nYA7VqaXzerajD0lg) - video summaries of popular non-fiction books 
