@@ -30,7 +30,7 @@ My personal list of books, videos and podcasts and ohter resources that I often 
     - [Goodreads](https://www.goodreads.com/book/show/35957157-thinking-in-bets), [Amazon.ca](https://amzn.to/2CSuXAr), [Talk at Google](https://www.youtube.com/watch?v=uYNsSeYjkp4)
   - The Culture Code by Daneil Coyle
     - [Goodreads](https://www.goodreads.com/book/show/33517721-the-culture-code), [Amazon.ca](https://amzn.to/2CPQWrV)
-  - Payoff: The Hidden Logic That Shapes Our Motivations
+  - "Payoff: The Hidden Logic That Shapes Our Motivations" by Dan Ariely
     - [Goodreads](https://www.goodreads.com/book/show/29430779-payoff)
 
 ## Relationships
