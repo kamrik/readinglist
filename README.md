@@ -25,13 +25,15 @@ My personal list of books, videos and podcasts and ohter resources that I often 
  - [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt) - a YouTube channel with well researched videos, sponsored by Bill Gates.
 
 ## Management and productivity
-  - [Ali Abdaal](https://www.youtube.com/channel/UCoOae5nYA7VqaXzerajD0lg) - video summaries of popular non-fiction books 
+  - Video summaries of popular non-fiction books by [Ali Abdaal](https://www.youtube.com/channel/UCoOae5nYA7VqaXzerajD0lg) -  
   - Thinking in Bets by Annie Duke
     - [Goodreads](https://www.goodreads.com/book/show/35957157-thinking-in-bets), [Amazon.ca](https://amzn.to/2CSuXAr), [Talk at Google](https://www.youtube.com/watch?v=uYNsSeYjkp4)
   - The Culture Code by Daneil Coyle
     - [Goodreads](https://www.goodreads.com/book/show/33517721-the-culture-code), [Amazon.ca](https://amzn.to/2CPQWrV)
-  - "Payoff: The Hidden Logic That Shapes Our Motivations" by Dan Ariely
+  - Payoff: The Hidden Logic That Shapes Our Motivations by Dan Ariely
     - [Goodreads](https://www.goodreads.com/book/show/29430779-payoff)
+  - The Phoenix Project by by Gene Kim, Kevin Behr, George Spafford
+    - [Goodreads](https://www.goodreads.com/book/show/17255186-the-phoenix-project)
 
 ## Relationships
  - Podcast [Where Should We Begin?](https://www.estherperel.com/podcast) with [Esther Perel](https://en.wikipedia.org/wiki/Esther_Perel)
