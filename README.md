@@ -25,7 +25,7 @@ My personal list of books, videos and podcasts and ohter resources that I often 
  - [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt) - a YouTube channel with well researched videos, sponsored by Bill Gates.
 
 ## Management and productivity
-  - Video summaries of popular non-fiction books by [Ali Abdaal](https://www.youtube.com/channel/UCoOae5nYA7VqaXzerajD0lg) -  
+  - [Video summaries of popular non-fiction books by Ali Abdaal](https://www.youtube.com/channel/UCoOae5nYA7VqaXzerajD0lg) -  
   - Thinking in Bets by Annie Duke
     - [Goodreads](https://www.goodreads.com/book/show/35957157-thinking-in-bets), [Amazon.ca](https://amzn.to/2CSuXAr), [Talk at Google](https://www.youtube.com/watch?v=uYNsSeYjkp4)
   - The Culture Code by Daneil Coyle
