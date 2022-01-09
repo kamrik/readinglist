@@ -32,7 +32,7 @@ My personal list of books, videos and podcasts and ohter resources that I often 
     - [Goodreads](https://www.goodreads.com/book/show/33517721-the-culture-code), [Amazon.ca](https://amzn.to/2CPQWrV)
   - Payoff: The Hidden Logic That Shapes Our Motivations by Dan Ariely
     - [Goodreads](https://www.goodreads.com/book/show/29430779-payoff)
-  - The Phoenix Project by by Gene Kim, Kevin Behr, George Spafford
+  - The Phoenix Project by Gene Kim, Kevin Behr, George Spafford
     - [Goodreads](https://www.goodreads.com/book/show/17255186-the-phoenix-project)
 
 ## Relationships
