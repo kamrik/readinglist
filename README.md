@@ -4,15 +4,15 @@ My personal list of books, videos and podcasts and ohter resources that I often 
 
 ## Society and History
  - Sapiens: A Brief History of Humankind by Yuval Noah Harari
-   - [Goodreads](https://www.goodreads.com/book/show/23692271-sapiens), [Amazon.ca](https://amzn.to/2HVprkO), [video playlist](https://www.youtube.com/watch?v=xQ4eg7Zj5OY&list=PLE-kxvSEhkzDEmLQx3RE09aKO4WS-M84t&index=4)
+   - [Goodreads](https://www.goodreads.com/book/show/23692271-sapiens), [video playlist](https://www.youtube.com/watch?v=xQ4eg7Zj5OY&list=PLE-kxvSEhkzDEmLQx3RE09aKO4WS-M84t&index=4)
  - Jared Diamond
    - Collapse: How Societies Choose to Fail or Succeed
-     - [Goodreads](https://www.goodreads.com/book/show/475.Collapse), [Amazon.ca](https://amzn.to/2VeMCcE), [Audiobook in Russain](https://www.litres.ru/dzhared-m-daymond/kollaps-pochemu-odni-obschestva-prihodyat-k-procvetaniu-a-drugie-k-gibeli-22166043/)
+     - [Goodreads](https://www.goodreads.com/book/show/475.Collapse), [Audiobook in Russain](https://www.litres.ru/dzhared-m-daymond/kollaps-pochemu-odni-obschestva-prihodyat-k-procvetaniu-a-drugie-k-gibeli-22166043/)
    - The World Until Yesterday: What Can We Learn from Traditional Societies? 
-     - [Goodreads](https://www.goodreads.com/book/show/15766601-the-world-until-yesterday), [Amazon.ca](https://amzn.to/2HSuiDf)
+     - [Goodreads](https://www.goodreads.com/book/show/15766601-the-world-until-yesterday), 
  - Francis Fukuyama
-   - The Origins of Political Order - [Goodreads](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order), , [Amazon.ca](https://amzn.to/2I6mc9u)
-   - Political Order and Political Decay - [Goodreads](https://www.goodreads.com/book/show/20575435-political-order-and-political-decay), [Amazon.ca](https://amzn.to/2HU2Chs)
+   - The Origins of Political Order - [Goodreads](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order), 
+   - Political Order and Political Decay - [Goodreads](https://www.goodreads.com/book/show/20575435-political-order-and-political-decay), 
  - Arzamas short videos
    - Ancient Greece [en](https://www.youtube.com/watch?v=gFRxmi4uCGo), [ru](https://www.youtube.com/watch?v=LJdhEpJ03Ug)
    - Roman empire [en](https://www.youtube.com/watch?v=46ZXl-V4qwY&t=74s), [ru](https://www.youtube.com/watch?v=LqB2pZXEfO4)
@@ -27,9 +27,9 @@ My personal list of books, videos and podcasts and ohter resources that I often 
 ## Management and productivity
   - [Video summaries of popular non-fiction books by Ali Abdaal](https://www.youtube.com/channel/UCoOae5nYA7VqaXzerajD0lg)  
   - Thinking in Bets by Annie Duke
-    - [Goodreads](https://www.goodreads.com/book/show/35957157-thinking-in-bets), [Amazon.ca](https://amzn.to/2CSuXAr), [Talk at Google](https://www.youtube.com/watch?v=uYNsSeYjkp4)
+    - [Goodreads](https://www.goodreads.com/book/show/35957157-thinking-in-bets), [Talk at Google](https://www.youtube.com/watch?v=uYNsSeYjkp4)
   - The Culture Code by Daneil Coyle
-    - [Goodreads](https://www.goodreads.com/book/show/33517721-the-culture-code), [Amazon.ca](https://amzn.to/2CPQWrV)
+    - [Goodreads](https://www.goodreads.com/book/show/33517721-the-culture-code), 
   - Payoff: The Hidden Logic That Shapes Our Motivations by Dan Ariely
     - [Goodreads](https://www.goodreads.com/book/show/29430779-payoff)
   - The Phoenix Project by Gene Kim, Kevin Behr, George Spafford
@@ -42,22 +42,22 @@ My personal list of books, videos and podcasts and ohter resources that I often 
 
 ## Children
  - All Joy and No Fun: The Paradox of Modern Parenthood by Jennifer Senior
-   - [Goodreads](https://www.goodreads.com/book/show/17383921-all-joy-and-no-fun), [Amazon.ca](https://amzn.to/2Ulh6wA)
+   - [Goodreads](https://www.goodreads.com/book/show/17383921-all-joy-and-no-fun), 
 
 ## Teaching and Education
  - The Talent Code by Daneil Coyle
-   - [Goodreads](https://www.goodreads.com/book/show/5771014-the-talent-code), [Amazon.ca](https://amzn.to/2HVVst8)
+   - [Goodreads](https://www.goodreads.com/book/show/5771014-the-talent-code), 
  - Teaching College by Norman Eng
-   - [Goodreads](https://www.goodreads.com/book/show/33948880-teaching-college), [Amazon.ca](https://amzn.to/2CTaawA)
+   - [Goodreads](https://www.goodreads.com/book/show/33948880-teaching-college), 
    - Somewaht dry read but very pragmatic
 
 ## Sailing
- - Sail and Rig Tuning by Ivar Dedekam - [Goodreads](https://www.goodreads.com/book/show/927889.Sail_and_Rig_Tuning), [Amazon.ca](https://amzn.to/2UtMr01)
- - Don Casey's Complete Illustrated Sailboat Maintenance Manual - [Goodreads](https://www.goodreads.com/book/show/1443179.Don_Casey_s_Complete_Illustrated_Sailboat_Maintenance_Manual), [Amazon.ca](https://amzn.to/2FOkGps)
+ - Sail and Rig Tuning by Ivar Dedekam - [Goodreads](https://www.goodreads.com/book/show/927889.Sail_and_Rig_Tuning), 
+ - Don Casey's Complete Illustrated Sailboat Maintenance Manual - [Goodreads](https://www.goodreads.com/book/show/1443179.Don_Casey_s_Complete_Illustrated_Sailboat_Maintenance_Manual), 
 
 ## Tech
   - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
-    - [GitHub](https://github.com/jakevdp/PythonDataScienceHandbook), [Amazon.ca](https://amzn.to/2CUjNex)
+    - [GitHub](https://github.com/jakevdp/PythonDataScienceHandbook), 
   - [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) by François Chollet
-    - [Manning online reader with audio](https://livebook.manning.com/#!/book/deep-learning-with-python/chapter-1/), [Amazon.ca](https://amzn.to/2FEZDpi), [Audible](https://www.audible.com/pd/Deep-Learning-with-Python-Audiobook/B07H5TZ6KN), [Book GitHub page](https://github.com/fchollet/deep-learning-with-python-notebooks)
+    - [Manning online reader with audio](https://livebook.manning.com/#!/book/deep-learning-with-python/chapter-1/), [Audible](https://www.audible.com/pd/Deep-Learning-with-Python-Audiobook/B07H5TZ6KN), [Book GitHub page](https://github.com/fchollet/deep-learning-with-python-notebooks)
   
